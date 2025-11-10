@@ -14,5 +14,3 @@ I have a solid foundation in network systems, programming (espescially Python, C
 - `Matlab`, `VHDL/Verilog`
 - `Git`, `GitHub`, `Linux`
 - `Cisco Packet Tracer`, `Wireshark`
-
----

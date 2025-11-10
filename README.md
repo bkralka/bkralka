@@ -16,5 +16,3 @@ I have a solid foundation in network systems, programming (espescially Python, C
 - `Cisco Packet Tracer`, `Wireshark`
 
 ---
-
-💬 Feel free to reach out if you want to connect or collaborate!<!
